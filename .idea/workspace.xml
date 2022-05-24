@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="70dc3fbd-e996-4e79-bc62-178e9ba6bc11" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Trabalho02/Cilindro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Trabalho02/Cone.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Trabalho02/Cubo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Trabalho02/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Trabalho02/Piramide.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Carro.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PacoteEstudo/Carro.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Celsius.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PacoteEstudo/Celsius.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Coordenada.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PacoteEstudo/Coordenada.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Fahrenheit.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PacoteEstudo/Fahrenheit.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Kelvin.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PacoteEstudo/Kelvin.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PacoteEstudo/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ParteInterna.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PacoteEstudo/ParteInterna.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Volante.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PacoteEstudo/Volante.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="29X2h8PV2zgDFbN65vxVkvFHxC2" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Main (1)">
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Trabalho02.Main" />
+      <module name="TesteJoao" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Trabalho02.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PacoteEstudo.Main" />
+      <module name="TesteJoao" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main (1)" />
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="70dc3fbd-e996-4e79-bc62-178e9ba6bc11" name="Default Changelist" comment="" />
+      <created>1653245225549</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1653245225549</updated>
+      <workItem from="1653245229633" duration="2893000" />
+      <workItem from="1653248674068" duration="3184000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2688" y="238" width="374" height="556" key="#com.intellij.ide.util.MemberChooser" timestamp="1653249208116">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2688" y="238" width="374" height="556" key="#com.intellij.ide.util.MemberChooser/1920.0.1920.1080/0.0.1920.1040@1920.0.1920.1080" timestamp="1653249208116" />
+    <state width="421" height="465" key="DebuggerActiveHint" timestamp="1653246942523">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="421" height="465" key="DebuggerActiveHint/1920.0.1920.1080/0.0.1920.1040@1920.0.1920.1080" timestamp="1653246942523" />
+    <state width="1878" height="277" key="GridCell.Tab.0.bottom" timestamp="1653251572284">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="277" key="GridCell.Tab.0.bottom/1920.0.1920.1080/0.0.1920.1040@1920.0.1920.1080" timestamp="1653251572284" />
+    <state width="1878" height="277" key="GridCell.Tab.0.center" timestamp="1653251572284">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="277" key="GridCell.Tab.0.center/1920.0.1920.1080/0.0.1920.1040@1920.0.1920.1080" timestamp="1653251572284" />
+    <state width="1878" height="277" key="GridCell.Tab.0.left" timestamp="1653251572284">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="277" key="GridCell.Tab.0.left/1920.0.1920.1080/0.0.1920.1040@1920.0.1920.1080" timestamp="1653251572284" />
+    <state width="1878" height="277" key="GridCell.Tab.0.right" timestamp="1653251572284">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="277" key="GridCell.Tab.0.right/1920.0.1920.1080/0.0.1920.1040@1920.0.1920.1080" timestamp="1653251572284" />
+    <state width="1878" height="342" key="GridCell.Tab.1.bottom" timestamp="1653247240105">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="342" key="GridCell.Tab.1.bottom/1920.0.1920.1080/0.0.1920.1040@1920.0.1920.1080" timestamp="1653247240105" />
+    <state width="1878" height="342" key="GridCell.Tab.1.center" timestamp="1653247240105">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="342" key="GridCell.Tab.1.center/1920.0.1920.1080/0.0.1920.1040@1920.0.1920.1080" timestamp="1653247240105" />
+    <state width="1878" height="342" key="GridCell.Tab.1.left" timestamp="1653247240104">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="342" key="GridCell.Tab.1.left/1920.0.1920.1080/0.0.1920.1040@1920.0.1920.1080" timestamp="1653247240104" />
+    <state width="1878" height="342" key="GridCell.Tab.1.right" timestamp="1653247240105">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="342" key="GridCell.Tab.1.right/1920.0.1920.1080/0.0.1920.1040@1920.0.1920.1080" timestamp="1653247240105" />
+    <state x="2384" y="154" key="SettingsEditor" timestamp="1653249197604">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2384" y="154" key="SettingsEditor/1920.0.1920.1080/0.0.1920.1040@1920.0.1920.1080" timestamp="1653249197604" />
+    <state x="2544" y="238" key="run.anything.popup" timestamp="1653251828946">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2544" y="238" key="run.anything.popup/1920.0.1920.1080/0.0.1920.1040@1920.0.1920.1080" timestamp="1653251828946" />
+    <state x="2543" y="228" width="672" height="678" key="search.everywhere.popup" timestamp="1653251709741">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2543" y="228" width="672" height="678" key="search.everywhere.popup/1920.0.1920.1080/0.0.1920.1040@1920.0.1920.1080" timestamp="1653251709741" />
+  </component>
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="kelvin.temperatura" language="JAVA" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>
